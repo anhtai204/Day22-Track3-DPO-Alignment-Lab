@@ -1,0 +1,10 @@
+1. Plot loss curve
+https://colab.research.google.com/drive/1PmtP389McxRc7T8hhGpnrjnlBC0AvVSL#scrollTo=a6cf6e31&fullscreenOutput=true
+
+2. DPO train
+https://colab.research.google.com/drive/1PmtP389McxRc7T8hhGpnrjnlBC0AvVSL#scrollTo=a99581d6&fullscreenOutput=true
+
+3. Plot reward curves — THE diagnostic
+https://colab.research.google.com/drive/1PmtP389McxRc7T8hhGpnrjnlBC0AvVSL#scrollTo=92c49615&fullscreenOutput=true
+
+4. 
